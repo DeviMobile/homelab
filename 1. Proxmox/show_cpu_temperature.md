@@ -121,6 +121,8 @@ Type in proxmox shell:
     To do this you will have to type in the following command: systemctl restart pveproxy
     If you got kicked out of the shell or it froze, dont worry this is normal! As the final step, either refresh your webpage with F5 or ideally close you browser and open proxmox again.
 
+    ![Proxmox Info](images/info.png)
+
 
 ## Sources
  - https://www.reddit.com/r/homelab/comments/rhq56e/displaying_cpu_temperature_in_proxmox_summery_in/
